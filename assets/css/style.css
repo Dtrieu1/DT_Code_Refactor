@@ -35,7 +35,7 @@ header div {
 header div ul {
     list-style-type: none;
 }
-
+/* Keeps the 3 section names in straight line */
 header div ul li {
     display: inline-block;
     margin-left: 25px;
@@ -129,11 +129,12 @@ p {
     color: #ffffff;
 }
 
+/*Consolidate img under class content*/
 .content img{
     max-height: 200px;
 }
 
-
+/*Cleaned up CSS w/ h2 - Footer h2 is different*/
 h2{
    margin-bottom: 20px;
     font-size: 36px; 
