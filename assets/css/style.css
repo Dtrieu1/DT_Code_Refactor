@@ -141,6 +141,14 @@ p {
     max-height: 200px;
 }
 
+
+h2{
+   margin-bottom: 20px;
+    font-size: 36px; 
+}
+
+
+/*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -155,6 +163,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
+
 
 .footer {
     padding: 30px;
